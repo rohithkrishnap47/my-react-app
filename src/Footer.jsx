@@ -1,9 +1,9 @@
 
-function Footer(){
-    return(
+function Footer() {
+    return (
         <footer>
             <p>&copy; {new Date().getFullYear()}F-Empo</p>
-        </footer>       
+        </footer>
     )
 }
 export default Footer
